@@ -3,64 +3,64 @@ A Power BI dashboard that visualizes and tracks cybersecurity incidents by sever
 ## Overview
 This Power BI dashboard project is designed to monitor, analyze, and visualize cybersecurity incidents within an organization. It provides valuable insights into threat types, severity levels, response times, and the operational impact across departments.
 ## Dataset Description
-File Used: cyber_incidents.csv
-The dataset contains the following key fields:
-Incident_ID: Unique identifier for each incident
-Date & Time: When the incident was detected
-Threat_Type: Type of cybersecurity threat (e.g., Malware, Phishing)
-Severity_Level: Critical, High, Medium, Low
-Status: Resolved or In Progress
-Response_Time_mins: Time taken to resolve the issue
-Department: Department affected
-A calculated column was added to combine Date and Time as Detected_Timestamp.
+File Used: cyber_incidents.csv <br>
+The dataset contains the following key fields: <br>
+Incident_ID: Unique identifier for each incident <br>
+Date & Time: When the incident was detected <br>
+Threat_Type: Type of cybersecurity threat (e.g., Malware, Phishing) <br>
+Severity_Level: Critical, High, Medium, Low <br>
+Status: Resolved or In Progress <br>
+Response_Time_mins: Time taken to resolve the issue <br>
+Department: Department affected <br>
+A calculated column was added to combine Date and Time as Detected_Timestamp. <br>
 ## Objectives
-1)Track total and resolved cybersecurity incidents
-2)Analyze threat types and their severity
-3)Measure and visualize average response times
-4)Identify departments most affected by threats
-5)Enable filtering by incident date for deeper analysis
+1)Track total and resolved cybersecurity incidents <br>
+2)Analyze threat types and their severity <br>
+3)Measure and visualize average response times <br>
+4)Identify departments most affected by threats <br>
+5)Enable filtering by incident date for deeper analysis <br>
 ## Dashboard Features
-## KPI Cards
-1)Total Cyber Incidents: Displays total number of incidents
-2)Resolved Incidents: Count of incidents marked as resolved
-3)Departments Affected: Number of departments impacted
-4)Avg. Response Time (in mins): Average of the Response_Time_mins column
-## Daily Trends - Incidents vs Response Time
-1)Visual: Line and Clustered Column Chart
-2)X-Axis: Day (from Detected_Timestamp)
-3)Bars: Count of Incident_ID
-4)Line: Sum of Response_Time_mins
-5)Shows correlation between volume and response efficiency over time
+## KPI Cards <br>
+1)Total Cyber Incidents: Displays total number of incidents <br>
+2)Resolved Incidents: Count of incidents marked as resolved <br>
+3)Departments Affected: Number of departments impacted <br>
+4)Avg. Response Time (in mins): Average of the Response_Time_mins column <br>
+## Daily Trends - Incidents vs Response Time 
+1)Visual: Line and Clustered Column Chart <br>
+2)X-Axis: Day (from Detected_Timestamp) <br>
+3)Bars: Count of Incident_ID <br>
+4)Line: Sum of Response_Time_mins <br>
+5)Shows correlation between volume and response efficiency over time <br>
 ## Threat Types Breakdown by Severity
-1)Visual: Stacked Column Chart
-2)X-Axis: Threat_Type
-3)Legend: Severity_Level
-4)Compares the impact of various threats by severity
+1)Visual: Stacked Column Chart <br>
+2)X-Axis: Threat_Type <br>
+3)Legend: Severity_Level <br>
+4)Compares the impact of various threats by severity <br>
 ## Incidents by Severity (Donut Chart)
 Shows overall proportion of incidents based on severity levels (Critical, High, Medium, Low)
 ## Incident Status by Department
-1)Visual: Stacked Bar Chart
-2)X-Axis: Count of Incident_ID
-3)Y-Axis: Department
-4)Legend: Status
-5)Helps identify which departments are most vulnerable and how efficiently issues are resolved
+1)Visual: Stacked Bar Chart <br>
+2)X-Axis: Count of Incident_ID <br>
+3)Y-Axis: Department <br>
+4)Legend: Status <br>
+5)Helps identify which departments are most vulnerable and how efficiently issues are resolved <br>
 ## Date Filter (Slicer)
 Users can filter the entire dashboard based on the selected incident date(s)
 ## DAX Measures Used
-Resolved_Incidents = CALCULATE(COUNT('cyber_incidents'[Incident_ID]), 'cyber_incidents'[Status] = "Resolved")
+Resolved_Incidents = CALCULATE(COUNT('cyber_incidents'[Incident_ID]), 'cyber_incidents'[Status] = "Resolved") <br>
 Avg_Response_Time_mins = AVERAGE('cyber_incidents'[Response_Time_mins])
 ## Design and Theme
 Theme: Dark Blue Background for better contrast
 ## Colors:
-1)Critical: Red
-2)High: Orange
-3)Medium: Yellow
-4)Low: Green
-5)Status: In Progress (Blue), Resolved (Purple)
-6)Font: Light-colored text for better readability
+1)Critical: Red <br>
+2)High: Orange <br>
+3)Medium: Yellow <br>
+4)Low: Green <br>
+5)Status: In Progress (Blue), Resolved (Purple) <br>
+6)Font: Light-colored text for better readability <br>
 ## Tools Used
-1)Power BI Desktop
-2)Excel (For Incident data)
+1)Power BI Desktop <br>
+2)Excel (For Incident data) <br>
 ## Conclusion
 This dashboard provides a clear and actionable overview of cybersecurity incidents. It helps in identifying high-risk areas, reducing response times, and allocating resources more effectively.
 ## Files:
