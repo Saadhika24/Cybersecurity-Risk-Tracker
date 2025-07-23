@@ -1,0 +1,101 @@
+Incident_ID,Date,Time,Department,Threat_Type,Severity_Level,Source_IP,Status,Response_Time_mins,SLA_Breached
+INC001,27-06-2025,15:12,Finance,Ransomware,Critical,192.168.110.217,In Progress,,
+INC002,13-06-2025,22:06,Operations,Phishing,Medium,192.168.64.57,Resolved,216,Yes
+INC003,22-06-2025,01:34,HR,Phishing,High,192.168.250.252,In Progress,,
+INC004,24-06-2025,21:35,Operations,DDoS,High,192.168.46.226,Resolved,229,Yes
+INC005,08-06-2025,07:30,Operations,DDoS,Medium,192.168.190.154,Resolved,225,Yes
+INC006,07-06-2025,05:26,R&D,Insider Threat,Low,192.168.203.66,In Progress,,
+INC007,04-06-2025,18:43,HR,Ransomware,High,192.168.117.109,Resolved,206,Yes
+INC008,06-06-2025,15:08,Operations,DDoS,High,192.168.122.239,Resolved,112,No
+INC009,29-06-2025,12:12,Operations,Insider Threat,Medium,192.168.144.147,Resolved,189,Yes
+INC010,26-06-2025,14:16,IT,Malware,Critical,192.168.192.83,Open,,
+INC011,22-06-2025,11:08,IT,Phishing,Medium,192.168.182.133,In Progress,,
+INC012,18-06-2025,00:22,Sales,Ransomware,Medium,192.168.101.77,In Progress,,
+INC013,02-06-2025,17:41,IT,Insider Threat,Critical,192.168.192.32,In Progress,,
+INC014,26-06-2025,17:33,Sales,Malware,Critical,192.168.209.155,Resolved,159,Yes
+INC015,17-06-2025,18:46,R&D,DDoS,Medium,192.168.109.153,Resolved,141,Yes
+INC016,01-06-2025,20:14,Sales,Insider Threat,Low,192.168.166.227,In Progress,,
+INC017,13-06-2025,03:47,R&D,Malware,Critical,192.168.204.255,In Progress,,
+INC018,22-06-2025,07:40,HR,Ransomware,High,192.168.229.43,Resolved,238,Yes
+INC019,21-06-2025,16:56,Sales,Brute Force,High,192.168.155.84,In Progress,,
+INC020,11-06-2025,08:25,IT,Ransomware,High,192.168.237.222,In Progress,,
+INC021,13-06-2025,13:19,Sales,Insider Threat,Critical,192.168.114.228,Resolved,51,No
+INC022,02-06-2025,12:46,Finance,Insider Threat,Critical,192.168.81.93,Resolved,119,No
+INC023,11-06-2025,01:43,Sales,Malware,Critical,192.168.119.146,Resolved,177,Yes
+INC024,29-06-2025,03:57,Operations,Ransomware,High,192.168.193.127,Resolved,141,Yes
+INC025,16-06-2025,12:51,Operations,Phishing,Critical,192.168.177.60,Resolved,211,Yes
+INC026,11-06-2025,22:28,R&D,Insider Threat,Medium,192.168.95.149,In Progress,,
+INC027,12-06-2025,11:02,IT,Phishing,High,192.168.107.42,In Progress,,
+INC028,04-06-2025,11:46,IT,Ransomware,Critical,192.168.34.108,Resolved,24,No
+INC029,19-06-2025,22:29,HR,Phishing,Critical,192.168.192.225,In Progress,,
+INC030,28-06-2025,07:41,R&D,DDoS,High,192.168.251.152,In Progress,,
+INC031,06-06-2025,10:53,Finance,Phishing,Medium,192.168.72.187,Resolved,109,No
+INC032,06-06-2025,12:40,Operations,Ransomware,High,192.168.245.219,Resolved,224,Yes
+INC033,11-06-2025,04:06,HR,Brute Force,Medium,192.168.33.154,Open,,
+INC034,02-06-2025,22:25,R&D,DDoS,High,192.168.128.228,Resolved,190,Yes
+INC035,16-06-2025,06:08,R&D,Insider Threat,High,192.168.157.207,In Progress,,
+INC036,07-06-2025,09:16,Finance,Ransomware,High,192.168.142.248,In Progress,,
+INC037,10-06-2025,16:37,Sales,Insider Threat,Low,192.168.207.96,Resolved,144,Yes
+INC038,28-06-2025,13:51,Sales,Brute Force,Medium,192.168.85.64,Resolved,28,No
+INC039,04-06-2025,21:03,Sales,Brute Force,High,192.168.216.69,Open,,
+INC040,30-06-2025,09:40,HR,Ransomware,High,192.168.229.173,Open,,
+INC041,11-06-2025,06:25,IT,Phishing,Medium,192.168.85.222,Resolved,134,Yes
+INC042,07-06-2025,18:18,R&D,Insider Threat,Critical,192.168.59.38,Resolved,122,Yes
+INC043,19-06-2025,11:55,HR,DDoS,High,192.168.243.100,In Progress,,
+INC044,29-06-2025,03:54,IT,Brute Force,Low,192.168.45.40,Resolved,68,No
+INC045,01-06-2025,03:18,Sales,Ransomware,Medium,192.168.190.7,In Progress,,
+INC046,04-06-2025,10:43,R&D,Malware,Medium,192.168.129.179,Open,,
+INC047,29-06-2025,11:45,Finance,Ransomware,Critical,192.168.96.198,Resolved,33,No
+INC048,21-06-2025,12:06,Sales,Brute Force,Critical,192.168.19.134,In Progress,,
+INC049,18-06-2025,10:00,Sales,Phishing,High,192.168.52.41,Resolved,199,Yes
+INC050,09-06-2025,01:37,HR,Brute Force,High,192.168.108.244,Resolved,94,No
+INC051,16-06-2025,15:03,Operations,Ransomware,Low,192.168.36.110,Resolved,48,No
+INC052,28-06-2025,14:54,IT,DDoS,High,192.168.123.9,Resolved,153,Yes
+INC053,21-06-2025,23:25,Sales,Malware,Critical,192.168.183.198,Resolved,203,Yes
+INC054,24-06-2025,10:25,HR,DDoS,Critical,192.168.76.220,Resolved,205,Yes
+INC055,25-06-2025,09:20,Sales,DDoS,Medium,192.168.8.37,Resolved,230,Yes
+INC056,06-06-2025,00:26,Operations,Brute Force,High,192.168.177.245,Resolved,41,No
+INC057,05-06-2025,20:46,Finance,Brute Force,High,192.168.21.178,In Progress,,
+INC058,28-06-2025,16:45,HR,DDoS,High,192.168.229.43,Resolved,118,No
+INC059,10-06-2025,00:18,R&D,Phishing,High,192.168.67.247,Resolved,239,Yes
+INC060,02-06-2025,17:55,HR,Insider Threat,Low,192.168.135.40,Open,,
+INC061,11-06-2025,13:14,IT,Insider Threat,Low,192.168.153.250,Resolved,229,Yes
+INC062,05-06-2025,15:01,R&D,Brute Force,High,192.168.199.93,Open,,
+INC063,19-06-2025,23:28,IT,Malware,Critical,192.168.73.99,Resolved,218,Yes
+INC064,02-06-2025,12:42,IT,Malware,Low,192.168.0.53,Open,,
+INC065,01-07-2025,17:49,Sales,Malware,Critical,192.168.117.145,Resolved,157,Yes
+INC066,16-06-2025,04:10,IT,Phishing,Critical,192.168.216.139,In Progress,,
+INC067,10-06-2025,17:11,R&D,Brute Force,High,192.168.145.57,In Progress,,
+INC068,04-06-2025,13:12,HR,Malware,Critical,192.168.254.191,Open,,
+INC069,04-06-2025,18:28,Sales,Insider Threat,Medium,192.168.173.59,Open,,
+INC070,24-06-2025,18:10,Finance,Malware,High,192.168.66.221,In Progress,,
+INC071,26-06-2025,21:05,Operations,Phishing,High,192.168.10.40,In Progress,,
+INC072,08-06-2025,05:37,HR,DDoS,Medium,192.168.239.154,Open,,
+INC073,28-06-2025,06:01,Finance,Phishing,High,192.168.82.117,In Progress,,
+INC074,30-06-2025,03:38,Finance,Malware,Low,192.168.182.123,Resolved,104,No
+INC075,14-06-2025,14:19,Finance,DDoS,Medium,192.168.121.195,Resolved,24,No
+INC076,10-06-2025,10:56,HR,Insider Threat,Medium,192.168.190.5,Resolved,208,Yes
+INC077,08-06-2025,18:30,Operations,Ransomware,High,192.168.73.119,Open,,
+INC078,20-06-2025,23:11,Sales,Ransomware,Critical,192.168.211.120,Resolved,60,No
+INC079,11-06-2025,11:54,HR,DDoS,High,192.168.30.31,Resolved,220,Yes
+INC080,11-06-2025,15:25,IT,Brute Force,High,192.168.106.6,Resolved,227,Yes
+INC081,12-06-2025,06:06,IT,Ransomware,Medium,192.168.228.42,In Progress,,
+INC082,11-06-2025,21:14,Operations,DDoS,Critical,192.168.98.242,Resolved,72,No
+INC083,11-06-2025,04:46,Finance,Brute Force,Critical,192.168.11.120,Resolved,63,No
+INC084,16-06-2025,15:40,Sales,Brute Force,Critical,192.168.230.66,In Progress,,
+INC085,06-06-2025,22:33,R&D,Phishing,Medium,192.168.245.160,Resolved,188,Yes
+INC086,02-06-2025,16:50,Operations,DDoS,High,192.168.20.147,In Progress,,
+INC087,12-06-2025,01:45,Operations,DDoS,High,192.168.28.55,In Progress,,
+INC088,14-06-2025,18:43,HR,Malware,Medium,192.168.167.50,Resolved,106,No
+INC089,24-06-2025,15:13,HR,Ransomware,High,192.168.89.44,Resolved,63,No
+INC090,07-06-2025,18:05,R&D,DDoS,Low,192.168.1.99,In Progress,,
+INC091,18-06-2025,22:58,Sales,Insider Threat,High,192.168.134.55,Open,,
+INC092,02-06-2025,16:53,Operations,Brute Force,High,192.168.130.93,Open,,
+INC093,07-06-2025,01:33,IT,Malware,Medium,192.168.43.22,Resolved,91,No
+INC094,07-06-2025,00:25,Operations,DDoS,Medium,192.168.181.94,Open,,
+INC095,13-06-2025,09:25,Finance,Ransomware,High,192.168.117.226,In Progress,,
+INC096,26-06-2025,08:54,HR,Phishing,High,192.168.132.135,Open,,
+INC097,24-06-2025,09:53,Sales,DDoS,Low,192.168.148.213,In Progress,,
+INC098,03-06-2025,16:16,IT,DDoS,High,192.168.44.208,Resolved,100,No
+INC099,09-06-2025,00:12,IT,Ransomware,Critical,192.168.226.234,Open,,
+INC100,29-06-2025,20:08,Sales,DDoS,Critical,192.168.131.92,Resolved,60,No
