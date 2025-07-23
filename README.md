@@ -5,14 +5,14 @@ This Power BI dashboard project is designed to monitor, analyze, and visualize c
 ## Dataset Description
 File Used: cyber_incidents.csv <br>
 The dataset contains the following key fields: <br>
-Incident_ID: Unique identifier for each incident <br>
-Date & Time: When the incident was detected <br>
-Threat_Type: Type of cybersecurity threat (e.g., Malware, Phishing) <br>
-Severity_Level: Critical, High, Medium, Low <br>
-Status: Resolved or In Progress <br>
-Response_Time_mins: Time taken to resolve the issue <br>
-Department: Department affected <br>
-A calculated column was added to combine Date and Time as Detected_Timestamp. <br>
+1)Incident_ID: Unique identifier for each incident <br>
+2)Date & Time: When the incident was detected <br>
+3)Threat_Type: Type of cybersecurity threat (e.g., Malware, Phishing) <br>
+4)Severity_Level: Critical, High, Medium, Low <br>
+5)Status: Resolved or In Progress <br>
+6)Response_Time_mins: Time taken to resolve the issue <br>
+7)Department: Department affected <br>
+8)A calculated column was added to combine Date and Time as Detected_Timestamp. <br>
 ## Objectives
 1)Track total and resolved cybersecurity incidents <br>
 2)Analyze threat types and their severity <br>
