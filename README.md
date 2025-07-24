@@ -64,7 +64,7 @@ Theme: Dark Blue Background for better contrast
 ## Conclusion
 This dashboard provides a clear and actionable overview of cybersecurity incidents. It helps in identifying high-risk areas, reducing response times, and allocating resources more effectively.
 ## Files:
-1)dashboard.pbix – C:\Users\admin\OneDrive\Desktop <br>
+1)dashboard.pbix – https://1drv.ms/u/c/6ee679fb17cb7e45/EWpVaqjaq9NErNb3fXPYsjwBAiA8_Mdyeuc0TXe27yyBUA?e=FNDVTF <br>
 2)dashboard.png – https://1drv.ms/i/c/6ee679fb17cb7e45/EXj7AzLP3DBMuRbkbZPRXX4BPtwnPw9ggG1n4NqLpgb11Q?e=ziqy9n  <br>
 3)incident_data.xlsx – https://1drv.ms/x/c/6ee679fb17cb7e45/Ec6QJY1xaXROukclj-VaoW0BZYjMhANzvhl4OFukD41uRQ?e=fcMjPw
 
