@@ -66,7 +66,9 @@ This dashboard provides a clear and actionable overview of cybersecurity inciden
 ## Files:
 1)dashboard.pbix – https://1drv.ms/u/c/6ee679fb17cb7e45/EWpVaqjaq9NErNb3fXPYsjwBAiA8_Mdyeuc0TXe27yyBUA?e=FNDVTF <br>
 2)dashboard.png – https://1drv.ms/i/c/6ee679fb17cb7e45/EXj7AzLP3DBMuRbkbZPRXX4BPtwnPw9ggG1n4NqLpgb11Q?e=ziqy9n  <br>
-3)incident_data.xlsx – https://1drv.ms/x/c/6ee679fb17cb7e45/Ec6QJY1xaXROukclj-VaoW0BZYjMhANzvhl4OFukD41uRQ?e=fcMjPw
+3)incident_data.xlsx – https://1drv.ms/x/c/6ee679fb17cb7e45/Ec6QJY1xaXROukclj-VaoW0BZYjMhANzvhl4OFukD41uRQ?e=fcMjPw <br>
+Download the .pbix file here - 
+https://onedrive.live.com/redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy82ZWU2NzlmYjE3Y2I3ZTQ1L0VXcFZhcWphcTlORXJOYjNmWFBZc2p3QkFpQThfTWR5ZXVjMFRYZTI3eXlCVUE%5FZT1GTkRWVEY&cid=6EE679FB17CB7E45&id=6EE679FB17CB7E45%21sa86a556aabda44d3acd6f77d73d8b23c&parId=6EE679FB17CB7E45%213925&o=OneUp 
 
 
 
